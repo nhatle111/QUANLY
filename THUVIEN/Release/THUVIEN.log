@@ -1,0 +1,47 @@
+﻿  Admin.cpp
+  BanDoc.cpp
+E:\c\TV\THUMUC\Date.h(33,8): warning C4101: 'buffer': unreferenced local variable
+  Date.cpp
+E:\c\TV\THUMUC\Date.h(33,8): warning C4101: 'buffer': unreferenced local variable
+  GiaoVien.cpp
+E:\c\TV\THUMUC\Date.h(33,8): warning C4101: 'buffer': unreferenced local variable
+  hamchinh.cpp
+E:\c\TV\THUMUC\Date.h(33,8): warning C4101: 'buffer': unreferenced local variable
+E:\c\TV\THUMUC\hamchinh.cpp(86,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\c\TV\THUMUC\hamchinh.cpp(157,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(169,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(189,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(212,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(291,12): warning C4101: 'soluong': unreferenced local variable
+E:\c\TV\THUMUC\hamchinh.cpp(291,6): warning C4101: 'soDT': unreferenced local variable
+E:\c\TV\THUMUC\hamchinh.cpp(406,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(418,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(431,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(443,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(630,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(652,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(672,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(694,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(714,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(736,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(753,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(791,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(803,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(831,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(854,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(887,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(899,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(921,20): warning C4018: '<': signed/unsigned mismatch
+E:\c\TV\THUMUC\hamchinh.cpp(962,11): warning C4129: '*': unrecognized character escape sequence
+E:\c\TV\THUMUC\hamchinh.cpp(1028,20): warning C4018: '<': signed/unsigned mismatch
+  PhieuMuon.cpp
+E:\c\TV\THUMUC\Date.h(33,8): warning C4101: 'buffer': unreferenced local variable
+  Sach.cpp
+E:\c\TV\THUMUC\Date.h(33,8): warning C4101: 'buffer': unreferenced local variable
+  SinhVien.cpp
+E:\c\TV\THUMUC\Date.h(33,8): warning C4101: 'buffer': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 675 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  THUVIEN.vcxproj -> C:\Users\Nhat Le\source\repos\THUVIEN\Release\THUVIEN.exe
